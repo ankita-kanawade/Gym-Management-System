@@ -49,9 +49,8 @@ The Gym Management System is a web application designed to help gym administrato
    git clone https://github.com/ankita-kanawade/Gym-Management-System.git
    
 2. Navigate to the Project Directory
-
-```bash
-cd Gym-Management-System
+   ```bash
+   cd Gym-Management-System
 
 3. Set up the database:
 Import the SQL files from the database directory into your MySQL database.
